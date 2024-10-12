@@ -201,4 +201,5 @@ Khi <font color="#f79646">một phần của tài nguyên phần cứng đầy</
 
 Tỷ lệ phân bổ giữa các bảng TCAM khác nhau được lưu trữ và có thể được sửa đổi bằng các mẫu Switching Database Manager (SDM). Có nhiều bộ chuyển mạch Cisco và mẫu SDM có thể được cấu hình trên các bộ chuyển mạch Catalyst 9000 bằng lệnh cấu hình toàn cục sdm prefer {vlan | advanced}. Sau đó, phải khởi động lại bộ chuyển mạch bằng lệnh reload.
 
-*<font color="#ff0000">*LƯU Ý Mọi thiết bị chuyển mạch trong ngăn xếp thiết bị chuyển mạch phải được cấu hình với cùng một mẫu SDM.*</font>*
+*<font color="#ff0000">*LƯU Ý Mọi thiết bị chuyển mạch trong ngăn xếp thiết bị chuyển mạch phải được cấu hình với cùng một mẫu SDM.*</font>
+
