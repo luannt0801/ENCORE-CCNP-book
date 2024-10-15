@@ -215,5 +215,3 @@ và đường dẫn qua R1–R4–R3 đã được gán số liệu đường d�
 
 
 
-
-
